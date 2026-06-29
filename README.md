@@ -130,7 +130,7 @@ https://rishirajshukla.netlify.app/
 
 # Let's Connect
 
-📧 your-email@example.com
+📧 work.rishirajshukla@gmail.com
 
 🌐 https://rishirajshukla.netlify.app/
 
