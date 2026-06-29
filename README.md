@@ -1,139 +1,159 @@
-<h1 align="center">Rishi Raj Shukla</h1>
+<div align="center">
 
-<p align="center">
-Frontend Developer • React.js • TypeScript • JavaScript
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFF8F0,50:FFE8D6,100:FF7A00&text=Rishi%20Raj%20Shukla&fontColor=111827&fontSize=62&fontAlignY=40&animation=fadeIn"/>
 
-<p align="center">
-Building fast, scalable, and user-centric web applications.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=FF7A00&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Next.js+Enthusiast;TypeScript+Lover;Building+Modern+Web+Applications"/>
 
-<p align="center">
-<a href="https://rishirajshukla.netlify.app">Portfolio</a> •
-<a href="https://github.com/rishiraj9701">GitHub</a> •
-<a href="https://www.linkedin.com/in/workrishirajshukla">LinkedIn</a>
-</p>
+<br/>
 
----
+<a href="https://rishirajshukla.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-FF7A00?style=for-the-badge&logoColor=white"/>
+</a>
 
-# About Me
+<a href="https://github.com/rishiraj9701">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-I'm a Frontend Developer passionate about building modern web applications with clean architecture, responsive design, and great user experiences.
+<a href="https://linkedin.com/in/workrishirajshukla">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Currently pursuing **B.Tech in Computer Science (AI & ML)** while continuously improving my expertise in React, TypeScript, Next.js, and frontend system design.
-
-- Building production-quality React applications
-- Writing clean, maintainable code
-- Passionate about UI/UX and performance
-- Open to Frontend Developer opportunities
+</div>
 
 ---
 
-# Tech Stack
+# 👋 Hi, I'm Rishi Raj Shukla
 
-### Languages
+### Frontend Developer • React.js Developer • Next.js Enthusiast
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"/>
-</p>
+I build **responsive**, **modern**, and **high-performance** web applications with clean architecture and beautiful user interfaces.
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-</p>
+Currently focused on building scalable React & Next.js applications while learning backend development and system design.
 
 ---
 
-# Featured Projects
-
-## AI Analytics Dashboard
-
-Modern SaaS analytics dashboard featuring responsive layouts, reusable components, authentication, and interactive dashboards.
-
-**Stack**
-
-React • TypeScript • Tailwind CSS
-
-🔗 Live Demo
-
-https://nexusanalyticssaas.netlify.app/
-
----
-
-## News Pulse
-
-AI-powered news aggregation platform with intelligent topic clustering and interactive timeline visualization.
-
-**Stack**
-
-React • Node.js • Express • MongoDB
-
----
-
-## Portfolio
-
-Personal portfolio showcasing projects, skills, and frontend development work.
-
-🔗
-
-https://rishirajshukla.netlify.app/
-
----
-
-# GitHub Statistics
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=rishiraj9701&hide_border=true&theme=transparent"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode,figma&perline=8"/>
 
 </p>
+
+---
+
+# 💻 About Me
+
+```ts
+const rishi = {
+    role: "Frontend Developer",
+
+    location: "India",
+
+    frontend: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express"
+    ],
+
+    database: [
+        "MongoDB",
+        "PostgreSQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Next.js",
+        "AI Integration"
+    ],
+
+    funFact: "I enjoy turning complex problems into simple UI."
+}
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj9701&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishiraj9701&bg_color=ffffff&color=ff7a00&line=ff7a00&point=111827&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishiraj9701&theme=flat&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Tech Stack |
+|---------|------------|
+| 🚀 AI Analytics Dashboard | React, Tailwind, Charts |
+| 📰 News Pulse | React, Express, MongoDB |
+| 💼 Personal Portfolio | React, Framer Motion |
+| 📋 Task Management App | React, Firebase |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj9701&layout=compact&hide_border=true&theme=transparent"/>
+<a href="https://rishirajshukla.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/workrishirajshukla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
 
 ---
 
-# Current Focus
+<div align="center">
 
-- Advanced React Patterns
-- Next.js
-- TypeScript
-- Performance Optimization
-- Frontend Architecture
-- Full Stack Development
+### ⚡ "Building fast, scalable and beautiful web experiences."
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFF8F0&height=120&section=footer"/>
 
-# Let's Connect
-
-📧 work.rishirajshukla@gmail.com
-
-🌐 https://rishirajshukla.netlify.app/
-
-💼 https://www.linkedin.com/in/workrishirajshukla
-
-⭐ Thanks for visiting my profile!
+</div>
