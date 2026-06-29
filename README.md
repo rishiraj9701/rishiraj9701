@@ -1,135 +1,139 @@
-<h1 align="center">Hi 👋, I'm Rishi Raj Shukla</h1>
-
-<h3 align="center">
-Frontend Developer | React.js | TypeScript | JavaScript
-</h3>
+<h1 align="center">Rishi Raj Shukla</h1>
 
 <p align="center">
-I build modern, responsive, and user-friendly web applications with React.js and TypeScript.
-Currently pursuing B.Tech in Computer Science (AI & ML) and actively looking for Frontend Developer opportunities.
+Frontend Developer • React.js • TypeScript • JavaScript
+</p>
+
+<p align="center">
+Building fast, scalable, and user-centric web applications.
+</p>
+
+<p align="center">
+<a href="https://rishirajshukla.netlify.app">Portfolio</a> •
+<a href="https://github.com/rishiraj9701">GitHub</a> •
+<a href="https://www.linkedin.com/in/workrishirajshukla">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# About Me
 
-- 💻 Frontend Developer passionate about creating beautiful user experiences.
-- ⚛️ Specializing in **React.js**, **TypeScript**, and **JavaScript**.
-- 🎯 Interested in scalable frontend architecture and performance optimization.
-- 🌱 Currently learning **Advanced React, Next.js, Node.js, and System Design**.
-- 👨‍💻 Building real-world projects to strengthen my development skills.
-- 📫 Reach me at **your-email@example.com**
+I'm a Frontend Developer passionate about building modern web applications with clean architecture, responsive design, and great user experiences.
+
+Currently pursuing **B.Tech in Computer Science (AI & ML)** while continuously improving my expertise in React, TypeScript, Next.js, and frontend system design.
+
+- Building production-quality React applications
+- Writing clean, maintainable code
+- Passionate about UI/UX and performance
+- Open to Frontend Developer opportunities
 
 ---
 
-## 🌐 Connect With Me
+# Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/workrishirajshukla" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### Languages
 
-<a href="https://rishirajshukla.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"/>
 </p>
-
----
-
-## 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-### 📊 AI Analytics Dashboard
+## AI Analytics Dashboard
 
-Modern analytics dashboard with beautiful UI, charts, authentication, and responsive design.
+Modern SaaS analytics dashboard featuring responsive layouts, reusable components, authentication, and interactive dashboards.
 
-**Tech Stack**
+**Stack**
 
-- React
-- TypeScript
-- Tailwind CSS
+React • TypeScript • Tailwind CSS
 
 🔗 Live Demo
+
 https://nexusanalyticssaas.netlify.app/
 
 ---
 
-### 📰 News Pulse
+## News Pulse
 
-AI-powered News Aggregator with timeline visualization and topic clustering.
+AI-powered news aggregation platform with intelligent topic clustering and interactive timeline visualization.
 
-**Tech Stack**
+**Stack**
 
-- React
-- Node.js
-- Express
-- MongoDB
+React • Node.js • Express • MongoDB
 
 ---
 
-### 🌐 Portfolio Website
+## Portfolio
 
-Responsive portfolio showcasing my skills, projects, and experience.
+Personal portfolio showcasing projects, skills, and frontend development work.
 
-🔗 https://rishirajshukla.netlify.app/
+🔗
+
+https://rishirajshukla.netlify.app/
 
 ---
 
-## 📈 GitHub Stats
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj9701&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=rishiraj9701&hide_border=true&theme=transparent"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj9701&layout=compact&theme=tokyonight"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj9701&layout=compact&hide_border=true&theme=transparent"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Activity
+# Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishiraj9701&theme=react-dark"/>
-</p>
-
----
-
-## 💡 Quote
-
-> "Code is not just about making things work—it's about creating experiences users enjoy."
+- Advanced React Patterns
+- Next.js
+- TypeScript
+- Performance Optimization
+- Frontend Architecture
+- Full Stack Development
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories!
+# Let's Connect
+
+📧 your-email@example.com
+
+🌐 https://rishirajshukla.netlify.app/
+
+💼 https://www.linkedin.com/in/workrishirajshukla
+
+⭐ Thanks for visiting my profile!
