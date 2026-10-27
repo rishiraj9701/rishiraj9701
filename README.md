@@ -1,72 +1,67 @@
-```html
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFF8F0,50:FFE8D6,100:FF7A00&text=Rishi%20Raj%20Shukla&fontColor=111827&fontSize=62&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFF8F0,50:FFE8D6,100:FF7A00&text=Rishi%20Raj%20Shukla&fontColor=111827&fontSize=55&fontAlignY=40&animation=fadeIn" width="100%" alt="Rishi Raj Shukla banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1200&color=FF7A00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%26+Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Applications;Frontend+%2B+Backend+%2B+Databases"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1200&color=FF7A00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%26+Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Applications" alt="Animated developer roles" />
 
-<br/>
+<br />
 
-<a href="https://rishirajshukla.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-FF7A00?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://github.com/rishiraj9701">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/workrishirajshukla">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://rishirajshukla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/rishiraj9701"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/workrishirajshukla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Rishi Raj Shukla
+## 👋 About Me
 
-### Full Stack Developer | React.js | Next.js | TypeScript | Node.js
+I'm **Rishi Raj Shukla**, a Full Stack Developer and B.Tech Computer Science student specializing in AI and Machine Learning.
 
-I build **modern, responsive, and scalable web applications** with intuitive user interfaces, robust backend APIs, and reliable database architecture.
+I build modern, responsive web applications with intuitive user interfaces, robust backend APIs, and reliable database architecture. I enjoy turning ideas into practical products, from frontend development to server-side logic and data management.
 
-I enjoy turning ideas into production-ready products, from designing seamless frontend experiences to implementing server-side logic, authentication, and data management.
-
-Currently pursuing my B.Tech in Computer Science (AI/ML) and strengthening my full-stack engineering skills.
+- 🔭 Building full-stack web applications and SaaS products.
+- 🌱 Exploring system design, scalable architecture, and AI integration.
+- 💻 Focused on clean code, performance, and user experience.
+- 📍 Based in India.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Vite" />
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Node.js and Express.js" />
 </p>
 
-### Databases & Data Management
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,appwrite&perline=8"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" alt="PostgreSQL and MongoDB" />
 </p>
 
-### Tools & Workflow
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=8" alt="Git, GitHub, VS Code, Figma and Vercel" />
 </p>
 
 ---
 
-# 💻 About Me
+## 💻 Developer Profile
 
-```ts
+
 const rishi = {
   name: "Rishi Raj Shukla",
   role: "Full Stack Developer",
+  education: "B.Tech CSE (AI/ML)",
   location: "India",
 
   frontend: [
@@ -94,96 +89,100 @@ const rishi = {
     "Git",
     "GitHub",
     "Vite",
-    "Vercel",
-    "Appwrite"
-  ],
-
-  currentlyExploring: [
-    "System Design",
-    "Scalable Web Architecture",
-    "AI Integration"
+    "Vercel"
   ],
 
   interests: [
     "Full Stack Development",
-    "SaaS Products",
-    "Clean Code",
-    "Performance Optimization"
-  ],
-
-  funFact:
-    "I enjoy turning complex problems into simple, useful products."
+    "SaaS Applications",
+    "System Design",
+    "AI Integration"
+  ]
 };
-```
+
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Featured Projects
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/rishiraj9701/Flowgrid">🚀 Flowgrid</a></td>
+<td>Full-stack project management SaaS</td>
+<td>React, TypeScript, Node.js, PostgreSQL</td>
+</tr>
+<tr>
+<td><a href="https://github.com/rishiraj9701/billbox-invoicing">🧾 Billbox</a></td>
+<td>Invoicing and business management platform</td>
+<td>React, TypeScript, Tailwind CSS</td>
+</tr>
+<tr>
+<td><a href="https://nexusanalyticssaas.netlify.app/">📊 AI Analytics Dashboard</a></td>
+<td>Interactive analytics and data visualization</td>
+<td>React, TypeScript, Charts</td>
+</tr>
+<tr>
+<td><a href="https://rishirajshukla.vercel.app/">🌐 Personal Portfolio</a></td>
+<td>Portfolio showcasing projects and skills</td>
+<td>React, TypeScript, Tailwind CSS</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishiraj9701&show_icons=true&hide_border=true&bg_color=FFF8F0&title_color=FF7A00&icon_color=FF7A00&text_color=111827" height="170" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj9701&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj9701&hide_border=true&background=FFF8F0&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" height="170" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishiraj9701&bg_color=ffffff&color=ff7a00&line=ff7a00&point=111827&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishiraj9701&bg_color=FFF8F0&color=111827&line=FF7A00&point=FF7A00&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishiraj9701&theme=flat&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rishiraj9701&theme=flat&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🚀 [Flowgrid](https://github.com/rishiraj9701/Flowgrid) | Project management SaaS platform | React, TypeScript, Node.js, PostgreSQL |
-| 🧾 [Billbox](https://github.com/rishiraj9701/billbox-invoicing) | Invoicing and business management | React, TypeScript, Tailwind CSS |
-| 📊 [AI Analytics Dashboard](https://nexusanalyticssaas.netlify.app/) | Interactive analytics dashboard | React, TypeScript, Charts |
-| 💼 [Personal Portfolio](https://rishirajshukla.vercel.app/) | Developer portfolio and projects | React, TypeScript, Tailwind CSS |
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://rishirajshukla.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/rishiraj9701">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/workrishirajshukla">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://rishirajshukla.vercel.app/"><img src="https://img.shields.io/badge/Website-FF7A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/rishiraj9701"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/workrishirajshukla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br /><br />
+
+### ⚡ Building end-to-end solutions, one commit at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFF8F0&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
-
----
-
-<div align="center">
-
-### ⚡ "Building end-to-end solutions, one commit at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFF8F0&height=120&section=footer"/>
-
-</div>
-```
