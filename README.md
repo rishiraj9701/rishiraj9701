@@ -1,20 +1,19 @@
+```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFF8F0,50:FFE8D6,100:FF7A00&text=Rishi%20Raj%20Shukla&fontColor=111827&fontSize=62&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=FF7A00&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Next.js+Enthusiast;TypeScript+Lover;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1200&color=FF7A00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%26+Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Applications;Frontend+%2B+Backend+%2B+Databases"/>
 
 <br/>
 
-<a href="https://rishirajshukla.netlify.app">
+<a href="https://rishirajshukla.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-FF7A00?style=for-the-badge&logoColor=white"/>
 </a>
-
 <a href="https://github.com/rishiraj9701">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://linkedin.com/in/workrishirajshukla">
+<a href="https://www.linkedin.com/in/workrishirajshukla">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -24,20 +23,40 @@
 
 # 👋 Hi, I'm Rishi Raj Shukla
 
-### Frontend Developer • React.js Developer • Next.js Enthusiast
+### Full Stack Developer | React.js | Next.js | TypeScript | Node.js
 
-I build **responsive**, **modern**, and **high-performance** web applications with clean architecture and beautiful user interfaces.
+I build **modern, responsive, and scalable web applications** with intuitive user interfaces, robust backend APIs, and reliable database architecture.
 
-Currently focused on building scalable React & Next.js applications while learning backend development and system design.
+I enjoy turning ideas into production-ready products, from designing seamless frontend experiences to implementing server-side logic, authentication, and data management.
+
+Currently pursuing my B.Tech in Computer Science (AI/ML) and strengthening my full-stack engineering skills.
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode,figma&perline=8"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8"/>
+</p>
 
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=8"/>
+</p>
+
+### Databases & Data Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,appwrite&perline=8"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=8"/>
 </p>
 
 ---
@@ -46,43 +65,55 @@ Currently focused on building scalable React & Next.js applications while learni
 
 ```ts
 const rishi = {
-    role: "Frontend Developer",
+  name: "Rishi Raj Shukla",
+  role: "Full Stack Developer",
+  location: "India",
 
-    location: "India",
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind CSS"
+  ],
 
-    frontend: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Tailwind CSS"
-    ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "JWT Authentication"
+  ],
 
-    backend: [
-        "Node.js",
-        "Express"
-    ],
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Prisma ORM"
+  ],
 
-    database: [
-        "MongoDB",
-        "PostgreSQL"
-    ],
+  tools: [
+    "Git",
+    "GitHub",
+    "Vite",
+    "Vercel",
+    "Appwrite"
+  ],
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma"
-    ],
+  currentlyExploring: [
+    "System Design",
+    "Scalable Web Architecture",
+    "AI Integration"
+  ],
 
-    currentlyLearning: [
-        "System Design",
-        "Next.js",
-        "AI Integration"
-    ],
+  interests: [
+    "Full Stack Development",
+    "SaaS Products",
+    "Clean Code",
+    "Performance Optimization"
+  ],
 
-    funFact: "I enjoy turning complex problems into simple UI."
-}
+  funFact:
+    "I enjoy turning complex problems into simple, useful products."
+};
 ```
 
 ---
@@ -121,39 +152,38 @@ const rishi = {
 
 # 📌 Featured Projects
 
-| Project | Tech Stack |
-|---------|------------|
-| 🚀 AI Analytics Dashboard | React, Tailwind, Charts |
-| 📰 News Pulse | React, Express, MongoDB |
-| 💼 Personal Portfolio | React, Framer Motion |
-| 📋 Task Management App | React, Firebase |
+| Project | Description | Technologies |
+|---|---|---|
+| 🚀 [Flowgrid](https://github.com/rishiraj9701/Flowgrid) | Project management SaaS platform | React, TypeScript, Node.js, PostgreSQL |
+| 🧾 [Billbox](https://github.com/rishiraj9701/billbox-invoicing) | Invoicing and business management | React, TypeScript, Tailwind CSS |
+| 📊 [AI Analytics Dashboard](https://nexusanalyticssaas.netlify.app/) | Interactive analytics dashboard | React, TypeScript, Charts |
+| 💼 [Personal Portfolio](https://rishirajshukla.vercel.app/) | Developer portfolio and projects | React, TypeScript, Tailwind CSS |
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://rishirajshukla.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge"/>
+<a href="https://rishirajshukla.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/rishiraj9701">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/workrishirajshukla">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/workrishirajshukla">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ "Building fast, scalable and beautiful web experiences."
+### ⚡ "Building end-to-end solutions, one commit at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:FFF8F0&height=120&section=footer"/>
 
 </div>
+```
